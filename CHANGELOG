@@ -1,3 +1,7 @@
+### v0.16.0-megalithic.1
+
+Build with Go 1.13 to add support for Go Template variable replacement.
+
 ### v0.16.0
 
 28f72608 Release arm64 binaries

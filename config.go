@@ -12,9 +12,9 @@ import (
 	"strings"
 
 	"github.com/BurntSushi/toml"
-	"github.com/kelseyhightower/confd/backends"
-	"github.com/kelseyhightower/confd/log"
-	"github.com/kelseyhightower/confd/resource/template"
+	"github.com/Megalithic-LLC/confd/backends"
+	"github.com/Megalithic-LLC/confd/log"
+	"github.com/Megalithic-LLC/confd/resource/template"
 )
 
 type TemplateConfig = template.Config
