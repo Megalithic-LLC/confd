@@ -1,4 +1,9 @@
-### v0.16.0-megalithic.1
+### [v0.16.0-megalithic.2] - 2020-06-24
+
+* Document arithmetic funcs from [#824](https://github.com/kelseyhightower/confd/pull/824)
+* Add loop and loop1to to template_funcs from [#363](https://github.com/kelseyhightower/confd/pull/363)
+
+### [v0.16.0-megalithic.1] - 2020-06-23
 
 Build with Go 1.13 to add support for Go Template variable replacement.
 
